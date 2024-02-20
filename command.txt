@@ -1,0 +1,5 @@
+# docker build
+docker build -t ubuntu18 .
+
+# docker run
+docker run -it --name ubuntu18 -p 18080:22 -d ubuntu18:latest
