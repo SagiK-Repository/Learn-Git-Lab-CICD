@@ -8,9 +8,9 @@ Local PC에서 CI/CD 동작하도록 구성합니다.
 - [x] 1. CI/CD?
 - [ ] 2. CLI Test
 - [x] 3. CI/CD Build
-  - [x] Local Window PC (https://github.com/SagiK-Repository/Learn-Git-Lab-CICD/issues/4)
-  - [x] Local Docker Window (https://github.com/SagiK-Repository/Learn-Git-Lab-CICD/issues/8)
-  - [x] CI/CD Build Error 해결과정 모음 (https://github.com/SagiK-Repository/Learn-Git-Lab-CICD/issues/5)
+  - [x] Local Window PC https://github.com/SagiK-Repository/Learn-Git-Lab-CICD/issues/4
+  - [x] Local Docker Window https://github.com/SagiK-Repository/Learn-Git-Lab-CICD/issues/8
+  - [x] CI/CD Build Error 해결과정 모음 https://github.com/SagiK-Repository/Learn-Git-Lab-CICD/issues/5
   - [x] Dotnet build시 sdk 버전 지정 https://github.com/SagiK-Repository/Learn-Git-Lab-CICD/issues/12
 - [ ] 4. CI/CD Flow 구성
 
